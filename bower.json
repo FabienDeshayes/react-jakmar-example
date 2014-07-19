@@ -1,0 +1,21 @@
+{
+  "name": "react-jakmar-example",
+  "version": "0.0.1",
+  "description": "An example of using Jakmar with View done with React",
+  "keywords": [
+    "jakmar",
+    "react"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "react": "~0.10.0",
+    "jakmar": "~0.0.4",
+    "requirejs": "~2.1.11",
+    "es6-promise": "~1.0.0"
+  }
+}

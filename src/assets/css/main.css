@@ -1,0 +1,6 @@
+ rect {
+	-webkit-transition: fill .4s ease;
+	-moz-transition: fill .4s ease;
+	-o-transition: fill .4s ease;
+	transition: fill .4s ease;
+}
